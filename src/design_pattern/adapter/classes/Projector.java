@@ -5,9 +5,9 @@ package design_pattern.adapter.classes;
  * 
  * @author 程序猿大头
  * 
- *         测试类
+ *         投影仪类
  */
-public class Demo {
+public class Projector {
 
 	public static void main(String[] args) {
 		Hdmi hdmi = new Adapter();
