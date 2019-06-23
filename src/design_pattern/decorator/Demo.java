@@ -14,7 +14,7 @@ public class Demo {
 		Monkey bird = new Bird(monkey);
 		bird.move();
 		System.out.println("--------Split Line--------");
-		Monkey fish = new Fish(monkey);
+		Monkey fish = new Fish(bird);
 		fish.move();
 	}
 
