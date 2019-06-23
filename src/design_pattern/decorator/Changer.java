@@ -16,7 +16,7 @@ public class Changer implements Monkey {
 
 	@Override
 	public void move() {
-		System.out.println("大圣化身移动...");
+		monkey.move();
 	}
 
 }
