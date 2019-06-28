@@ -1,7 +1,7 @@
 package design_pattern.singleton.lazy;
 
 /**
- * 懒汉式单例模式
+ * 懒汉式单例模式 - 非线程安全
  * 
  * @author 程序猿大头
  *
