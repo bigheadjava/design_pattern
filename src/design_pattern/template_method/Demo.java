@@ -1,4 +1,4 @@
-package design_pattern.template_method.smaple;
+package design_pattern.template_method;
 
 /**
  * 演示模版方法模式
